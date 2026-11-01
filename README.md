@@ -15,4 +15,7 @@ An Arduino-based closed-loop control system that autonomously tracks a light sou
 
 ## Future Work
 This single-axis mechanism is designed to be upgraded into a dual-axis (pan-tilt) autonomous tracking turret prototype. Future iterations will replace the LDR sensor array with camera-based computer vision tracking algorithms.
-you can use with breadboard or pcb format
+
+
+
+##(you can use with breadboard or pcb format)
