@@ -18,4 +18,4 @@ This single-axis mechanism is designed to be upgraded into a dual-axis (pan-tilt
 
 
 
-##(you can use with breadboard or pcb format)
+## (you can use with breadboard or pcb format)
